@@ -15,7 +15,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw2.c" beforeDir="false" afterPath="$PROJECT_DIR$/hw2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2.c" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +68,7 @@
       <workItem from="1696785695201" duration="41000" />
       <workItem from="1696848256109" duration="591000" />
       <workItem from="1696898059453" duration="29000" />
+      <workItem from="1696901772634" duration="140000" />
     </task>
     <servers />
   </component>
